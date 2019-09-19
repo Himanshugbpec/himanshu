@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<title>my intro</title>
+<head>
+<style>
+h1
+{
+color: black;
+  text-align: center;
+  }
+</style>
+</head>
+  <link rel="stylesheet" type="text/css" href="first.css">
+<link rel ="stylesheet"type="text/css" href="link.css ">
+<Body>
+<h1>About Himanshu</h1>
+<img src="../IMAGES/Himanshu.png"width="200" height="200"><br>
+<a href="Acadmic.html">acadmic details</a><br>
+<a href="family.html">family Background</a><br>
+<a href="email_id.html">email_id</a><br>
+<a href="contact number.html">contact options</a><br>
+<a href="address.html">Address details</a><br>
+</Body>
+</html>
